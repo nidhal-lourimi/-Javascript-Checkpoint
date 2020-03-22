@@ -1,1 +1,2 @@
 # -Javascript-Checkpoint
+# JQuery-Checkpoint
